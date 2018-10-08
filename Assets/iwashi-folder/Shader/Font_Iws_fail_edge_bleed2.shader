@@ -1,6 +1,6 @@
 // Unity built-in shader source. Copyright (c) 2016 Unity Technologies. MIT license (see license.txt)
 
-Shader "GUI/Text Shader Iws_fail_edge_bleed2" {
+Shader "iwashi/Text Shader Iws_fail_edge_bleed2" {
 	Properties {
 		_MainTex ("Font Texture", 2D) = "white" {}
 		_Color ("Text Color", Color) = (1,1,1,1)
