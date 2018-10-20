@@ -16,7 +16,7 @@ Shader "iwashi/Text Shader Iws_fail_edge_bleed2" {
 			"RenderType"="Transparent"
 			"PreviewType"="Plane"
 		}
-		Lighting Off Cull Off ZTest Always ZWrite Off
+		Lighting Off Cull Off ZTest LEqual ZWrite On
 		Blend SrcAlpha OneMinusSrcAlpha
 
 		Pass {
