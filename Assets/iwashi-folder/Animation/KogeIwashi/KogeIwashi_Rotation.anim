@@ -103,28 +103,6 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Enabled
-    path: Trigger
-    classID: 65
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-      - serializedVersion: 2
-        time: 3
-        value: 1
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Enabled
     path: CullAnimator/Bounds
     classID: 137
     script: {fileID: 0}
@@ -215,13 +193,6 @@ AnimationClip:
       script: {fileID: 0}
       typeID: 4
       customType: 14
-      isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3587585729
-      attribute: 3305885265
-      script: {fileID: 0}
-      typeID: 65
-      customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
       path: 3756162704
@@ -494,28 +465,6 @@ AnimationClip:
     attribute: m_LocalPosition.z
     path: 
     classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-      - serializedVersion: 2
-        time: 3
-        value: 1
-        inSlope: Infinity
-        outSlope: Infinity
-        tangentMode: 103
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Enabled
-    path: Trigger
-    classID: 65
     script: {fileID: 0}
   - curve:
       serializedVersion: 2
